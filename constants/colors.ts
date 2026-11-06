@@ -1,0 +1,17 @@
+export const COLOR = {
+  primary: "#344437",
+  secondary: "#52634A",
+  accent: "#C49A61",
+  background: "#F2F0E8",
+  backgroundLight: "#FAF9F6",
+  surface: "#FAF9F6",
+  text: "#344437",
+  secondaryText: "#858477",
+  active: "#C49A61",
+  inactive: "#B9B6A6",
+  border: "#E2DED3",
+  beige: "#E9E4D9",
+  brown: "#8B704C",
+  onPrimary: "#FAF9F6",
+  danger: "#AE5B4F",
+};
